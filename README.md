@@ -2,8 +2,8 @@
 
 https://github.com/GBLin5566/toward-controlled-generation-of-text-pytorch <br />
 https://github.com/DSKSD/Controlled_Text_Generation <br />
-    https://github.com/nlpyang/structured 
-    https://github.com/zihangdai/mos 
+https://github.com/nlpyang/structured <br />
+https://github.com/zihangdai/mos <br />
     https://github.com/YichenGong/Densely-Interactive-Inference-Network 
     https://github.com/loudinthecloud/pytorch-ntm 
     https://github.com/carpedm20/NTM-tensorflow 
