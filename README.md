@@ -1,7 +1,7 @@
 # repository2track_dynamic
 
-https://github.com/nlpyang/structured 
-https://github.com/zihangdai/mos 
+  https://github.com/nlpyang/structured 
+  https://github.com/zihangdai/mos 
 https://github.com/YichenGong/Densely-Interactive-Inference-Network 
 https://github.com/loudinthecloud/pytorch-ntm 
 https://github.com/carpedm20/NTM-tensorflow 
