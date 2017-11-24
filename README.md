@@ -1,4 +1,4 @@
-# repository2track_dynamic
+# repository2track
 
     https://github.com/GBLin5566/toward-controlled-generation-of-text-pytorch
     https://github.com/DSKSD/Controlled_Text_Generation
