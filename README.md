@@ -1,5 +1,8 @@
 # repository2track
 
+https://github.com/brendenlake/SCAN  
+https://github.com/JACKHAHA363/VQVAE  
+https://github.com/hiwonjoon/tf-vqvae  
 https://github.com/GBLin5566/toward-controlled-generation-of-text-pytorch  
 https://github.com/DSKSD/Controlled_Text_Generation  
 https://github.com/nlpyang/structured  
