@@ -1,5 +1,6 @@
 # repository2track
 
+https://github.com/bharathgs/Awesome-pytorch-list (A comprehensive list of pytorch related)  
 https://github.com/jinfagang/pytorch_chatbot  
 https://github.com/fducau/AAE_pytorch  
 https://github.com/znxlwm/pytorch-generative-model-collections  
