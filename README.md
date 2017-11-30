@@ -1,5 +1,6 @@
 # repository2track
 
+https://github.com/znxlwm/pytorch-generative-model-collections  
 https://github.com/ritchieng/the-incredible-pytorch (a curated list of !!)  
 https://github.com/soumith?language=python&tab=stars (starred repositories by pytorch developer!)  
 https://github.com/brendenlake/SCAN  
