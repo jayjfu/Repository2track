@@ -1,5 +1,7 @@
 # repository2track
 
+https://github.com/jinfagang/pytorch_chatbot  
+https://github.com/fducau/AAE_pytorch  
 https://github.com/znxlwm/pytorch-generative-model-collections  
 https://github.com/ritchieng/the-incredible-pytorch (a curated list of !!)  
 https://github.com/soumith?language=python&tab=stars (starred repositories by pytorch developer!)  
