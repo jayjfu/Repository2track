@@ -1,5 +1,6 @@
 # repository2track
 
+https://github.com/soumith?language=python&tab=stars (starred repositories by pytorch developer!)  
 https://github.com/brendenlake/SCAN  
 https://github.com/JACKHAHA363/VQVAE  
 https://github.com/hiwonjoon/tf-vqvae  
