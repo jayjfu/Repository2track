@@ -1,5 +1,8 @@
 # repository2track
 
+https://github.com/kefirski/contiguous-succotash  
+https://github.com/kefirski/pytorch_RVAE  
+https://github.com/rishabh135/PYT-VQ-VAE  
 https://github.com/atgambardella/pytorch-es  
 https://github.com/Spandan-Madan/Pytorch_fine_tuning_Tutorial  
 https://github.com/cemoody/topicsne  
