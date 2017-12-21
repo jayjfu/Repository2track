@@ -1,5 +1,6 @@
 # repository2track
 
+https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix  
 https://github.com/DmitryUlyanov/deep-image-prior  
 https://github.com/facebookresearch/SentEval  
 https://github.com/facebookresearch/InferSent  
