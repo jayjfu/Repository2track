@@ -1,5 +1,6 @@
 # repository2track
 
+https://github.com/DmitryUlyanov/deep-image-prior  
 https://github.com/facebookresearch/SentEval  
 https://github.com/facebookresearch/InferSent  
 https://github.com/kefirski/contiguous-succotash  
