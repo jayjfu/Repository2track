@@ -1,5 +1,7 @@
 # repository2track
 
+https://github.com/tolstikhin/wae  
+https://github.com/caogang/wgan-gp  
 https://github.com/tbung/pytorch-revnet  
 https://github.com/facebookresearch/poincare-embeddings  
 https://github.com/dragen1860/LearningToCompare-Pytorch  
