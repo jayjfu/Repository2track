@@ -1,5 +1,6 @@
 # repository2track
 
+https://github.com/tbung/pytorch-revnet  
 https://github.com/facebookresearch/poincare-embeddings  
 https://github.com/dragen1860/LearningToCompare-Pytorch  
 https://github.com/Sarasra/models/tree/master/research/capsules  
