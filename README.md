@@ -1,5 +1,8 @@
 # repository2track
 
+https://github.com/facebookresearch/poincare-embeddings  
+https://github.com/dragen1860/LearningToCompare-Pytorch  
+https://github.com/Sarasra/models/tree/master/research/capsules  
 https://github.com/hwwang55/GraphGAN  
 https://github.com/jinze1994/ATRank  
 https://github.com/dragen1860/LearningToCompare-Pytorch  
