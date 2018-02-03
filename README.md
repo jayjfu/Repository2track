@@ -1,5 +1,6 @@
 # repository2track
 
+https://github.com/wsnedy/WAE_Pytorch  
 https://github.com/tolstikhin/wae  
 https://github.com/caogang/wgan-gp  
 https://github.com/tbung/pytorch-revnet  
