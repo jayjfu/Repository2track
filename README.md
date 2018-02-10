@@ -1,5 +1,6 @@
 # repository2track
 
+https://github.com/wohlert/semi-supervised-pytorch  
 https://github.com/deepmind/lab  
 https://github.com/Mrgemy95/visual-interaction-networks-pytorch  
 https://github.com/wsnedy/WAE_Pytorch  
