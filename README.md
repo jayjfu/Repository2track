@@ -1,6 +1,7 @@
 # repository2track
 
 https://github.com/PetrochukM/PyTorch-NLP  
+https://github.com/locuslab/TCN  
 https://github.com/carpedm20/ENAS-pytorch    
 https://github.com/wohlert/semi-supervised-pytorch  
 https://github.com/deepmind/lab  
