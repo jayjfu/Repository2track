@@ -3,6 +3,7 @@
 https://github.com/PetrochukM/PyTorch-NLP  (2018-3-27)  
 https://github.com/locuslab/TCN  
 https://github.com/zalandoresearch/pt-dilate-rnn  
+https://github.com/jhjacobsen/pytorch-i-revnet  
 https://github.com/carpedm20/ENAS-pytorch    (2018-2-28)  
 https://github.com/wohlert/semi-supervised-pytorch  
 https://github.com/deepmind/lab  
