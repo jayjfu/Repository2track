@@ -1,5 +1,6 @@
 # repository2track
 
+https://github.com/Shawn1993/cnn-text-classification-pytorch  
 https://github.com/facebookresearch/visdom  
 https://github.com/pytorch/text  
 https://github.com/XMUNLP/Tagger  (2018-4-19)  
