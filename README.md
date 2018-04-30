@@ -1,5 +1,6 @@
 # repository2track
 
+https://github.com/uber-common/deep-neuroevolution  
 https://github.com/goodfeli/dlbook_notation  
 https://github.com/NVIDIA/sentiment-discovery  
 https://github.com/Shawn1993/cnn-text-classification-pytorch  
