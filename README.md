@@ -1,5 +1,6 @@
 # repository2track
 
+https://github.com/geek-ai/Texygen  
 https://github.com/minimaxir/textgenrnn  (2018-5-1)  
 https://github.com/deepfakes/faceswap  (lol)  
 https://github.com/openai/retro  
