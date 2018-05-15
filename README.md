@@ -1,5 +1,6 @@
 # repository2track
 
+https://github.com/Embedding/Chinese-Word-Vectors  (2018-5-15)  
 https://github.com/geek-ai/Texygen  
 https://github.com/minimaxir/textgenrnn  (2018-5-1)  
 https://github.com/deepfakes/faceswap  (lol)  
