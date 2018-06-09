@@ -1,5 +1,6 @@
 # repository2track
 
+https://www.kaggle.com/  (kaggle challenge !)  
 https://github.com/DistrictDataLabs/yellowbrick  (2018-06-08)  
 https://github.com/IBM/adversarial-robustness-toolbox  
 https://github.com/jiesutd/NCRFpp  
