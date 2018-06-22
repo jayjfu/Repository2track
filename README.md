@@ -1,5 +1,6 @@
 # repository2track
 
+https://github.com/kaniblu/pytorch-bilstmcrf  
 https://github.com/openai/finetune-transformer-lm  (2018-06-20)  
 https://github.com/NervanaSystems/distiller  
 https://www.kaggle.com/  (kaggle challenge !)  
