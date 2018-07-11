@@ -1,5 +1,6 @@
 # repository2track
 
+https://github.com/ZhixiuYe/HSCRF-pytorch  (2018-07-11)  
 https://github.com/kaniblu/pytorch-bilstmcrf  
 https://github.com/openai/finetune-transformer-lm  (2018-06-20)  
 https://github.com/NervanaSystems/distiller  
