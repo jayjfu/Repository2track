@@ -1,5 +1,6 @@
 # repository2track
 
+https://github.com/allenai/allennlp (good implementions for NLP)  
 https://github.com/jayavardhanr/End-to-end-Sequence-Labeling-via-Bi-directional-LSTM-CNNs-CRF-Tutorial (tagSchema transfer) (2018-07-25)  
 https://github.com/ZhixiuYe/HSCRF-pytorch  (2018-07-11)  
 https://github.com/kaniblu/pytorch-bilstmcrf  
