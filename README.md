@@ -1,5 +1,6 @@
 # repository2track
 
+https://github.com/google/dopamine  
 https://github.com/timgaripov/swa  （2018-08-24）  
 https://github.com/zalandoresearch/flair  (state-of-the-art NLP)  
 https://github.com/allenai/allennlp (good implementions for NLP)  
