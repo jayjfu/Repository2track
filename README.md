@@ -1,5 +1,6 @@
 # repository2track
 
+https://github.com/bharathgs/Awesome-pytorch-list  (repeat)  
 https://github.com/codertimo/BERT-pytorch  
 https://github.com/google-research/bert  (2018-11-11)  
 https://github.com/abhshkdz/ai-deadlines/  (http://aideadlin.es)  
