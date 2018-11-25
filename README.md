@@ -1,5 +1,6 @@
 # repository2track
 
+https://spinningup.openai.com/en/latest/  (2018-11-25)  
 https://github.com/snakeztc/NeuralDialog-LAED  
 https://github.com/facebookresearch/Horizon  
 https://github.com/facebookresearch/maskrcnn-benchmark  
