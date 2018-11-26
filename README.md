@@ -1,5 +1,6 @@
 # repository2track
 
+https://github.com/facebookresearch/XNLI  
 https://github.com/lium-lst/nmtpytorch  
 https://github.com/huggingface/pytorch-pretrained-BERT  
 https://spinningup.openai.com/en/latest/  (2018-11-25)  
