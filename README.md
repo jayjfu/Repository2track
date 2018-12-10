@@ -1,6 +1,5 @@
 # repository2track
 
-https://github.com/shangjingbo1226/AutoNER  
 https://github.com/pytorch/fairseq  (2018-12-01)  
 https://github.com/quark0/darts  
 https://github.com/lanwuwei/SPM_toolkit  
