@@ -1,5 +1,6 @@
 # repository2track
 
+https://github.com/rtqichen/torchdiffeq  
 https://github.com/facebookresearch/pytext  (2018-12-20)  
 https://github.com/pytorch/fairseq  (2018-12-01)  
 https://github.com/quark0/darts  
