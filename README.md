@@ -1,5 +1,6 @@
 # repository2track
 
+https://github.com/facebookresearch/LASER  (2019-1-28)  
 https://github.com/osforscience/deep-learning-ocean  
 https://github.com/CSAILVision/gandissect  
 https://github.com/momohuang/FlowQA  
