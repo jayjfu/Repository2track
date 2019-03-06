@@ -15,7 +15,7 @@ https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-m
 https://github.com/lancopku/pkuseg-python  
 https://github.com/torchgan/torchgan  (2019-1-8)  
 
-#### 2018
+#### 2018&previous
 
 https://github.com/rtqichen/torchdiffeq  
 https://github.com/facebookresearch/pytext  (2018-12-20)  
