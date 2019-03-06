@@ -38,7 +38,7 @@ https://github.com/google/dopamine
 https://github.com/timgaripov/swa  （2018-08-24）  
 https://github.com/zalandoresearch/flair  (state-of-the-art NLP)  
 https://github.com/allenai/allennlp (good implementions for NLP)  
-https://github.com/jayavardhanr/End-to-end-Sequence-Labeling-via-Bi-directional-LSTM-CNNs-CRF-Tutorial (2018-07-25)  
+https://github.com/jayavardhanr/End-to-end-Sequence-Labeling-via-Bi-directional-LSTM-CNNs-CRF-Tutorial  
 https://github.com/ZhixiuYe/HSCRF-pytorch  (2018-07-11)  
 https://github.com/kaniblu/pytorch-bilstmcrf  
 https://github.com/openai/finetune-transformer-lm  (2018-06-20)  
