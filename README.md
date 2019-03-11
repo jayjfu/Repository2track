@@ -3,24 +3,24 @@
 
 - https://github.com/CriseLYJ/awesome-python-login-model
 - https://github.com/rusty1s/pytorch_geometric  
-https://github.com/mariogeiger/hessian  
-https://github.com/msamogh/nonechucks  
-https://github.com/locuslab/trellisnet  
-https://github.com/Swall0w/torchstat  
-https://github.com/ksw0306/ClariNet  
-https://github.com/catalyst-team/catalyst  
-https://github.com/Luolc/AdaBound  
-https://github.com/tensorflow/lingvo  (2019-3-4)  
-https://github.com/facebookresearch/nevergrad  
-https://paperswithcode.com/sota  (papers w/ code!)  
-https://github.com/stanfordnlp/stanfordnlp  (2019-2-13)  
-https://github.com/facebookresearch/LASER  (2019-1-28)  
-https://github.com/osforscience/deep-learning-ocean  
-https://github.com/CSAILVision/gandissect  
-https://github.com/momohuang/FlowQA  
-https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python  
-https://github.com/lancopku/pkuseg-python  
-https://github.com/torchgan/torchgan  (2019-1-8)  
+- https://github.com/mariogeiger/hessian  
+- https://github.com/msamogh/nonechucks  
+- https://github.com/locuslab/trellisnet  
+- https://github.com/Swall0w/torchstat  
+- https://github.com/ksw0306/ClariNet  
+- https://github.com/catalyst-team/catalyst  
+- https://github.com/Luolc/AdaBound  
+- https://github.com/tensorflow/lingvo  (2019-3-4)  
+- https://github.com/facebookresearch/nevergrad  
+- https://paperswithcode.com/sota  (papers w/ code!)  
+- https://github.com/stanfordnlp/stanfordnlp  (2019-2-13)  
+- https://github.com/facebookresearch/LASER  (2019-1-28)  
+- https://github.com/osforscience/deep-learning-ocean  
+- https://github.com/CSAILVision/gandissect  
+- https://github.com/momohuang/FlowQA  
+- https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python  
+- https://github.com/lancopku/pkuseg-python  
+- https://github.com/torchgan/torchgan  (2019-1-8)  
 
 #### 2018&previous
 
