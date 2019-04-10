@@ -1,6 +1,7 @@
 # repository2track
 #### 2019
 
+https://github.com/brightmart/text_classification  (all kinds of text classification)  
 https://github.com/ajbrock/BigGAN-PyTorch  (2019-4-8)  
 https://github.com/ritheshkumar95/energy_based_generative_models  (MCMC  2019-3-16)  
 https://github.com/CriseLYJ/awesome-python-login-model  
