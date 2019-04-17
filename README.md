@@ -1,6 +1,7 @@
 # repository2track
 #### 2019
 
+https://github.com/wabyking/TextClassificationBenchmark  
 https://github.com/TencentYoutuResearch/FaceDetection-DSFD  
 https://github.com/brightmart/text_classification  (all kinds of text classification)  
 https://github.com/ajbrock/BigGAN-PyTorch  (2019-4-8)  
