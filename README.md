@@ -1,6 +1,9 @@
 # repository2track
 #### 2019
 
+https://github.com/catalyst-team/catalyst  
+https://github.com/tomgoldstein/loss-landscape  
+https://github.com/BayesWatch/pytorch-prunes  (2019-4-24)  
 https://github.com/apache/spark  
 https://github.com/wabyking/TextClassificationBenchmark  
 https://github.com/TencentYoutuResearch/FaceDetection-DSFD  
