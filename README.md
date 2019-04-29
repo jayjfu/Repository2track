@@ -1,6 +1,7 @@
 # repository2track
 #### 2019
 
+https://github.com/sebastianruder/NLP-progress  (datasets and SOTA)  
 https://github.com/KaihuaTang/VQA2.0-Recent-Approachs-2018.pytorch  
 https://github.com/google-research/morph-net  
 https://github.com/openai/sparse_attention  
