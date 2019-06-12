@@ -1,6 +1,7 @@
 # repository2track
 #### 2019
 
+https://github.com/slundberg/shap  (2019-6-12)  
 https://github.com/pytorch/botorch  
 https://github.com/facebook/Ax  
 https://github.com/IgorSusmelj/pytorch-styleguide  (2019-5-6)  
