@@ -1,6 +1,7 @@
 # repository2track
 #### 2019
 
+https://github.com/DeepGraphLearning/KnowledgeGraphEmbedding  (2019-7-24)  
 https://github.com/thunlp/OpenKE  
 https://github.com/davidlvxin/TransC  
 https://github.com/thunlp/ERNIE  
