@@ -1,7 +1,6 @@
 # repository2track
 #### 2019
 
-https://github.com/zasdfgbnm/TorchSnooper  
 https://github.com/namisan/mt-dnn  
 https://github.com/rasbt/deeplearning-models  
 https://github.com/DeepGraphLearning/KnowledgeGraphEmbedding  (2019-7-24)  
