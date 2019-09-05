@@ -1,6 +1,9 @@
 # repository2track
 #### 2019
 
+https://github.com/alecwangcq/EigenDamage-Pytorch  
+https://github.com/GokuMohandas/practicalAI  
+https://github.com/tomgoldstein/loss-landscape  (2019-9-6)  
 https://github.com/BlackHC/tfpyth  
 https://github.com/facebookresearch/dlrm  (2019-8-13)  
 https://github.com/namisan/mt-dnn  
