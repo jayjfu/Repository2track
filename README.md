@@ -1,6 +1,7 @@
 # repository2track
 #### 2019
 
+https://github.com/benedekrozemberczki/awesome-graph-classification  
 https://github.com/alecwangcq/EigenDamage-Pytorch  
 https://github.com/GokuMohandas/practicalAI  
 https://github.com/tomgoldstein/loss-landscape  (2019-9-6)  
