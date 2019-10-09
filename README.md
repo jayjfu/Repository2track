@@ -1,6 +1,8 @@
 # repository2track
 #### 2019
 
+https://github.com/Fonbet/argus-tensor-stream  
+https://github.com/Omegastick/pytorch-cpp-rl  
 https://github.com/kakaobrain/torchgpipe  
 https://github.com/cortexlabs/cortex  
 https://github.com/facebookresearch/higher  (2019-10-9)  
