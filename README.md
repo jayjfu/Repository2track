@@ -1,6 +1,7 @@
 # repository2track
 #### 2019
 
+https://github.com/hal3/macarico  
 https://github.com/Fonbet/argus-tensor-stream  
 https://github.com/Omegastick/pytorch-cpp-rl  
 https://github.com/kakaobrain/torchgpipe  
