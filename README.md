@@ -1,6 +1,8 @@
 # repository2track
 #### 2019
 
+https://github.com/ptrblck/pytorch_misc  (redis)  
+https://github.com/Wizaron/pytorch-cpp-inference  
 https://github.com/benedekrozemberczki/CapsGNN  
 https://github.com/hal3/macarico  
 https://github.com/Fonbet/argus-tensor-stream  
