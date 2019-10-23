@@ -1,7 +1,6 @@
 # repository2track
 #### 2019
 
-https://github.com/ricklamers/gridstudio  
 https://github.com/MaurizioFD/RecSys2019_DeepLearning_Evaluation  (10-21)  
 https://github.com/ptrblck/pytorch_misc  (redis)  
 https://github.com/Wizaron/pytorch-cpp-inference  
