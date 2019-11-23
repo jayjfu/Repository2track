@@ -1,6 +1,7 @@
 # repository2track
 #### 2019
 
+https://github.com/HobbitLong/RepDistiller  (11-23)  
 https://github.com/NVIDIA/DeepLearningExamples/tree/master/FasterTransformer  
 https://github.com/MaurizioFD/RecSys2019_DeepLearning_Evaluation  (10-21)  
 https://github.com/ptrblck/pytorch_misc  (redis)  
