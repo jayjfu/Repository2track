@@ -1,6 +1,7 @@
 # repository2track
 #### 2019
 
+https://github.com/HunterMcGushion/hyperparameter_hunter  
 https://github.com/hal3/macarico  (repeated, learning to search in pytorch)  
 https://github.com/HobbitLong/RepDistiller  (11-23)  
 https://github.com/NVIDIA/DeepLearningExamples/tree/master/FasterTransformer  
