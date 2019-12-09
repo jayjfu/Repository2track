@@ -1,6 +1,9 @@
 # repository2track
 #### 2019
 
+https://github.com/cortexlabs/cortex  (repeated, deploy machine learning models)  
+https://github.com/facebookresearch/higher  
+https://github.com/PetrochukM/HParams  
 https://github.com/alibaba/x-deeplearning (12-09)   
 https://github.com/nmslib/hnswlib  
 https://github.com/HunterMcGushion/hyperparameter_hunter  
