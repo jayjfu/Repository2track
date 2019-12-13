@@ -1,6 +1,7 @@
 # repository2track
 #### 2019
 
+https://github.com/tensorflow/neural-structured-learning  
 https://github.com/cortexlabs/cortex  (repeated, deploy machine learning models)  
 https://github.com/facebookresearch/higher  
 https://github.com/PetrochukM/HParams  
