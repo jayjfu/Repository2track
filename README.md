@@ -18,15 +18,13 @@ https://github.com/facebookresearch/higher
 https://github.com/PetrochukM/HParams  
 https://github.com/alibaba/x-deeplearning (12-09)   
 https://github.com/nmslib/hnswlib  
-https://github.com/HunterMcGushion/hyperparameter_hunter  
-https://github.com/hal3/macarico  (repeated, learning to search in pytorch)  
+https://github.com/HunterMcGushion/hyperparameter_hunter    
 https://github.com/HobbitLong/RepDistiller  (11-23)  
 https://github.com/NVIDIA/DeepLearningExamples/tree/master/FasterTransformer  
 https://github.com/MaurizioFD/RecSys2019_DeepLearning_Evaluation  (10-21)  
 https://github.com/ptrblck/pytorch_misc  (redis)  
 https://github.com/Wizaron/pytorch-cpp-inference  
-https://github.com/benedekrozemberczki/CapsGNN  
-https://github.com/hal3/macarico  
+https://github.com/benedekrozemberczki/CapsGNN   
 https://github.com/Fonbet/argus-tensor-stream  
 https://github.com/Omegastick/pytorch-cpp-rl  
 https://github.com/kakaobrain/torchgpipe  
