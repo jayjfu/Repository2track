@@ -1,6 +1,7 @@
 # repository2track
 #### 2020
 
+https://github.com/microsoft/nni  
 https://github.com/minimaxir/stylecloud  
 https://github.com/asyml/texar-pytorch  (3-17)  
 https://github.com/tensorflow/ranking  
