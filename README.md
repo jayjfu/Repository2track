@@ -1,6 +1,7 @@
 # repository2track
 #### 2020
 
+https://github.com/awslabs/autogluon  
 https://github.com/facebookresearch/mmf  
 https://github.com/facebookresearch/pytorch3d  
 https://github.com/yenchenlin/nerf-pytorch  
