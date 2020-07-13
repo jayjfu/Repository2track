@@ -1,6 +1,7 @@
 # repository2track
 #### 2020
 
+https://github.com/alvinwan/neural-backed-decision-trees  
 https://github.com/AlexeyAB/darknet  (07-13)  
 https://github.com/zhanghang1989/ResNeSt  
 https://github.com/awslabs/autogluon  
