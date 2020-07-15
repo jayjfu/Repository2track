@@ -1,6 +1,7 @@
 # repository2track
 #### 2020
 
+https://github.com/QHedgeTech/cpp-elasticsearch  
 https://github.com/paperswithcode/releasing-research-code  (repeat)  
 https://github.com/podgorskiy/ALAE  
 https://github.com/alvinwan/neural-backed-decision-trees  
