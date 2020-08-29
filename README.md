@@ -1,6 +1,7 @@
 # repository2track
 #### 2020
 
+https://github.com/nyu-mll/jiant  
 https://github.com/maciejkula/spotlight  (rec)  
 https://github.com/karpathy/minGPT  
 https://github.com/MaurizioFD/RecSys2019_DeepLearning_Evaluation  (rec)  
