@@ -1,6 +1,10 @@
 # repository2track
 #### 2020
 
+
+https://github.com/PyRetri/PyRetri  (image retrieval)  
+https://github.com/DLR-RM/stable-baselines3  
+https://github.com/pytorch/elastic  
 https://github.com/nyu-mll/jiant  
 https://github.com/maciejkula/spotlight  (rec)  
 https://github.com/karpathy/minGPT  
