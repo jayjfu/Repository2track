@@ -2,6 +2,8 @@
 #### 2020
 
 
+https://github.com/KevinMusgrave/pytorch-metric-learning  
+https://github.com/facebookresearch/mmf  (multimodal)  
 https://github.com/PyRetri/PyRetri  (image retrieval)  
 https://github.com/DLR-RM/stable-baselines3  
 https://github.com/pytorch/elastic  
