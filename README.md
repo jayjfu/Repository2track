@@ -1,6 +1,7 @@
 # repository2track
 #### 2020
 
+https://github.com/cortexlabs/cortex (repeat)
 https://github.com/awslabs/autogluon (repeat, 10-29)  
 https://github.com/arXivTimes/arXivTimes  (!!)  
 https://github.com/PyTorchLightning/pytorch-lightning  (pytorch wrapper, 9-29)  
@@ -46,14 +47,14 @@ https://github.com/lyst/lightfm
 https://github.com/prabhuomkar/pytorch-cpp  (2-24)  
 https://github.com/wangshub/Douyin-Bot  
 https://github.com/chiphuyen/machine-learning-systems-design  
-https://github.com/allenai/allennlp  (repeated 1-6)  
+https://github.com/allenai/allennlp  (repeat 1-6)  
 
 #### 2019
  
 https://github.com/o19s/elasticsearch-learning-to-rank  
 https://github.com/huggingface/transformers  
 https://github.com/tensorflow/neural-structured-learning  
-https://github.com/cortexlabs/cortex  (repeated, deploy machine learning models)  
+https://github.com/cortexlabs/cortex  (repeat, deploy machine learning models)  
 https://github.com/facebookresearch/higher  
 https://github.com/PetrochukM/HParams  
 https://github.com/alibaba/x-deeplearning (12-09)   
