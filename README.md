@@ -1,7 +1,7 @@
 # repository2track
 #### 2020
 
-https://github.com/cortexlabs/cortex (repeat)
+https://github.com/cortexlabs/cortex (repeat)  
 https://github.com/awslabs/autogluon (repeat, 10-29)  
 https://github.com/arXivTimes/arXivTimes  (!!)  
 https://github.com/PyTorchLightning/pytorch-lightning  (pytorch wrapper, 9-29)  
