@@ -1,6 +1,7 @@
 # repository2track
 #### 2020
 
+https://github.com/marcotcr/checklist  
 https://github.com/HobbitLong/PyContrast  
 https://github.com/zhanghang1989/ResNeSt  (repeat, 1129)  
 https://github.com/cortexlabs/cortex (repeat)  
