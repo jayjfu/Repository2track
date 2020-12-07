@@ -1,6 +1,7 @@
 # repository2track
 #### 2020
 
+https://github.com/datawhalechina/leedeeprl-notes  (1207)  
 https://github.com/openai/jukebox  
 https://github.com/marcotcr/checklist  
 https://github.com/HobbitLong/PyContrast  
