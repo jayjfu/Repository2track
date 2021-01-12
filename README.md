@@ -13,8 +13,7 @@ https://github.com/datawhalechina/leedeeprl-notes  (1207)
 https://github.com/openai/jukebox  
 https://github.com/marcotcr/checklist  
 https://github.com/HobbitLong/PyContrast  
-https://github.com/zhanghang1989/ResNeSt  (repeat, 1129)  
-https://github.com/cortexlabs/cortex (repeat)  
+https://github.com/zhanghang1989/ResNeSt  (repeat, 1129)    
 https://github.com/awslabs/autogluon (repeat, 1029)  
 https://github.com/arXivTimes/arXivTimes  (!!)  
 https://github.com/PyTorchLightning/pytorch-lightning  (pytorch wrapper, 0929)  
@@ -66,8 +65,7 @@ https://github.com/allenai/allennlp  (repeat 0106)
  
 https://github.com/o19s/elasticsearch-learning-to-rank  
 https://github.com/huggingface/transformers  
-https://github.com/tensorflow/neural-structured-learning  
-https://github.com/cortexlabs/cortex  (repeat, deploy machine learning models)  
+https://github.com/tensorflow/neural-structured-learning    
 https://github.com/facebookresearch/higher  
 https://github.com/PetrochukM/HParams  
 https://github.com/alibaba/x-deeplearning (1209)   
@@ -81,8 +79,7 @@ https://github.com/Wizaron/pytorch-cpp-inference
 https://github.com/benedekrozemberczki/CapsGNN   
 https://github.com/Fonbet/argus-tensor-stream  
 https://github.com/Omegastick/pytorch-cpp-rl  
-https://github.com/kakaobrain/torchgpipe  
-https://github.com/cortexlabs/cortex  
+https://github.com/kakaobrain/torchgpipe    
 https://github.com/facebookresearch/higher  (20191009)  
 https://github.com/benedekrozemberczki/awesome-graph-classification  
 https://github.com/alecwangcq/EigenDamage-Pytorch  
