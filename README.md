@@ -1,6 +1,7 @@
 # Repository2track
 #### 2021
 
+https://github.com/Wizaron/pytorch-cpp-inference  (repeat, pytorch C++ serving)  
 https://github.com/ahkarami/Deep-Learning-in-Production  
 https://github.com/openai/CLIP  
 https://github.com/wzhe06/Reco-papers  
