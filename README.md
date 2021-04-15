@@ -1,6 +1,14 @@
 # Repository2track
 #### 2021
 
+https://github.com/hal3/macarico/tree/master/macarico  (0415)  
+https://github.com/BloodAxe/pytorch-toolbelt  
+https://github.com/mariusbrataas/flowpoints_ml  
+https://github.com/asyml/texar-pytorch  (repeat)  
+https://github.com/awwong1/torchprof  
+https://github.com/stared/thinking-in-tensors-writing-in-pytorch  
+https://github.com/NVIDIA/Megatron-LM  
+https://github.com/tum-pbs/PhiFlow  
 https://github.com/POSTECH-CVLab/PyTorch-StudioGAN (0313)  
 https://github.com/sebastianruder/NLP-progress  (0201)  
 https://github.com/ml-tooling/best-of-ml-python  
