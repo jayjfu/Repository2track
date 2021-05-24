@@ -1,6 +1,7 @@
 # Repository2track
 #### 2021
 
+https://github.com/faridrashidi/kaggle-solutions  
 https://github.com/openai/CLIP  
 https://github.com/facebookresearch/KILT (0506)  
 https://github.com/hal3/macarico/tree/master/macarico  (0415)  
