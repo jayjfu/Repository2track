@@ -1,9 +1,10 @@
 # Repository2track
 #### 2021
 
+https://github.com/PyTorchLightning/pytorch-lightning (repeat)  
 https://github.com/BloodAxe/pytorch-toolbelt  
-https://github.com/feedly/transfer-nlp  (1221)  
-https://github.com/pytorch/fairseq/tree/main/examples/wmt21  (1122)  
+https://github.com/feedly/transfer-nlp (1221)  
+https://github.com/pytorch/fairseq/tree/main/examples/wmt21 (1122)  
 https://github.com/facebookresearch/NeuralDB (1012)  
 https://github.com/xmu-xiaoma666/External-Attention-pytorch (0809)  
 https://github.com/BloodAxe/pytorch-toolbelt (repeat)  
@@ -15,19 +16,19 @@ https://github.com/slundberg/shap (0623, explanations to ML models)
 https://github.com/faridrashidi/kaggle-solutions  
 https://github.com/openai/CLIP  
 https://github.com/facebookresearch/KILT (0506)  
-https://github.com/hal3/macarico/tree/master/macarico  (0415)  
+https://github.com/hal3/macarico/tree/master/macarico (0415)  
 https://github.com/BloodAxe/pytorch-toolbelt  
 https://github.com/mariusbrataas/flowpoints_ml  
-https://github.com/asyml/texar-pytorch  (repeat)  
+https://github.com/asyml/texar-pytorch (repeat)  
 https://github.com/awwong1/torchprof  
 https://github.com/stared/thinking-in-tensors-writing-in-pytorch  
 https://github.com/NVIDIA/Megatron-LM  
 https://github.com/tum-pbs/PhiFlow  
 https://github.com/POSTECH-CVLab/PyTorch-StudioGAN (0313)  
-https://github.com/sebastianruder/NLP-progress  (0201)  
+https://github.com/sebastianruder/NLP-progress (0201)  
 https://github.com/ml-tooling/best-of-ml-python  
 https://github.com/pytorch/tutorials  
-https://github.com/Wizaron/pytorch-cpp-inference  (repeat, pytorch C++ serving)  
+https://github.com/Wizaron/pytorch-cpp-inference (repeat, pytorch C++ serving)  
 https://github.com/ahkarami/Deep-Learning-in-Production  
 https://github.com/openai/CLIP  
 https://github.com/wzhe06/Reco-papers  
