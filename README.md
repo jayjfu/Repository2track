@@ -1,5 +1,7 @@
 # Repository2track
 #### 2022
+https://github.com/pytorch/fairseq/tree/main/examples/data2vec  
+https://github.com/google-research/vmoe  
 https://github.com/Lyken17/pytorch-OpCounter  
 https://github.com/BloodAxe/pytorch-toolbelt (repeat)  
 https://github.com/pytorch/benchmark (repeat)  
