@@ -1,5 +1,7 @@
 # Repository2track
 #### 2022
+https://github.com/Xilinx/brevitas  
+https://github.com/cleanlab/cleanlab (0414)  
 https://github.com/jingtaozhan/RepCONC  (0228)  
 https://github.com/pytorch/fairseq/tree/main/examples/data2vec  
 https://github.com/google-research/vmoe  
