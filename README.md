@@ -1,5 +1,8 @@
 # Repository2track
 #### 2022
+https://github.com/d2l-ai/d2l-en (0509)  
+https://github.com/cleanlab/cleanlab  
+https://github.com/replicate/cog  
 https://github.com/Xilinx/brevitas  
 https://github.com/cleanlab/cleanlab (0414)  
 https://github.com/jingtaozhan/RepCONC  (0228)  
