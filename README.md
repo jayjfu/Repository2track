@@ -1,5 +1,6 @@
 # Repository2track
 #### 2022
+https://github.com/replicate/cog (0811)  
 https://github.com/mwmbl/mwmbl (search engine implemented in python, 0714)  
 https://github.com/d2l-ai/d2l-en (0509)  
 https://github.com/cleanlab/cleanlab  
