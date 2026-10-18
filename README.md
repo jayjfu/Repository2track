@@ -1,4 +1,4 @@
-# Repository2track
+# Repository2track (deprecated)
 #### 2022
 https://github.com/replicate/cog (0811)  
 https://github.com/mwmbl/mwmbl (search engine implemented in python, 0714)  
